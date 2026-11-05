@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-customer-portal-nuxt",
+  "capabilityKey": "liberusoftware/module-billing-customer-portal",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-billing-customer-portal-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/billing/nextjs/customer-portal.md",
+  "presentationPlan": "projects/billing/nuxt/customer-portal.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
